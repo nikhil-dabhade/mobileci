@@ -1,4 +1,5 @@
 package com.awsmobilereactnativesample;
+// comment
 
 import com.facebook.react.ReactActivity;
 
