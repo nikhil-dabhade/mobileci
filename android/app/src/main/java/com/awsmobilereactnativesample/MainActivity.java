@@ -1,5 +1,6 @@
 package com.awsmobilereactnativesample;
 // comment
+// Comment to trigger build for react native android app
 
 import com.facebook.react.ReactActivity;
 
